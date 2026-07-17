@@ -8,3 +8,14 @@ Un incontro a tema, in cui tesi si contrappongono,si confrontano, si ibridano.
 Un'*unconference* anomala, che si basa sul diritto-dovere di arrivare preparati, lasciando tuttavia piena libertà di auto-organizzazione. 
 
 ## Equinozio d'Autunno 2026
+### Agenda
+| orario        | attività |
+|---------------|----------|
+| 09:00         | registrazione e benvenuto      |
+| 09:30 ~ 10:15 | 1° slot
+| 10:20 ~ 11:05 | 2° slot
+| 11:10 ~ 11:55 | 3° slot
+| 12:00 ~ 12:45 | 4° slot
+| 14:00 ~ 14:45 | 5° slot
+| 14:50 ~ 15:35 | 6° slot
+
