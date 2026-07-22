@@ -1,3 +1,4 @@
+![Equinox26](img/Equinox26.png)
 # Equinox Jam
 Ogni anno ci sono 2 date in cui la durata del giorno e della notte sono in perfetto equilibrio, in cui gli opposti in eterno conflitto si fermano ad assaporare una quiete riflessiva, nella pienezza matura di un ciclo compiuto carica di concentrazione in vista una nuova stagione.  
 ![Asinelli](img/asinelli.jpg)
@@ -12,13 +13,14 @@ Un'*unconference* anomala, che si basa sul diritto-dovere di arrivare preparati,
 * È previso un solo track, connotato da un tema conduttore, abbastanza flessibile da essere plurale, decisamente focalizzato, per dare un senso all'evento.  
 * L'iscrizione è gratuita, ma la partecipazione sarà condizionato dalla disponibilità fisica dei posti.
 * Sono previsti fino ad un massimo di 6 talk in slot da 45 minuti  
-* Chiunque può proporre liberamente uno o più interventi, predisponendo, per ciascun i essi, una scheda di presentazione in formato markdown (.md) conforme al template da recapitare al comitato organizzatore entro il 9 Settembre 2026.  
+* Chiunque può proporre liberamente uno o più interventi, predisponendo, per ciascun i essi, una scheda di presentazione in formato markdown (.md) conforme al template da recapitare a <a href="mailto:equinox.jam@dataonthe.net?subject=Autunno'26" target="_blank">equinox.jam@dataonthe.net</a> entro il 9 Settembre 2026.  
+* Le proposte,una volta valiate, saranno pubblicate sulla pagina <a href="https://dataonthe.net/equinox/" target="_blank">dataonthe.net/equinox</a>
 * Il giorno della convention i partecipanti registrati voteranno gli interventi preferiti, nel caso in cui le candidature siano superiori a 6.
 * Al termine degli interventi ci sarà una tavola di confronto, moderata e con un question time aperto al pubblico.
 
 ### Tema della prima edizione 
 Il tema della prima edizione sarà dissacrante e provocatorio
-**“Qualità, Quantità, Quasità, Quaqquaracquà (tutto in rima con Agilità)”**
+**“Qualità, Quantità, Quasità, Quacquaracquà (tutto in rima con Agilità)”**
 
 ### Agenda
 | orario        | attività |
